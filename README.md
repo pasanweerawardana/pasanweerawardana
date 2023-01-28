@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasanweerawardana&show_icons=true&locale=en" alt="pasanweerawardana" /></p>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasanweerawardana&show_icons=true&locale=en&layout=compact" alt="pasanweerawardana" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasanweerawardana&show_icons=true&locale=en&layout=compact" alt="pasanweerawardana" /></p>
 </div>
