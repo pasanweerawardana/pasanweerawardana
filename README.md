@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pasan Weerawardana</h1>
 <h3 align="center">Enthusiastic developer looking for opportunities to enhance my skills</h3>
-- 🎓 I'm a physical science graduate from **University of Colombo.**
+- 🎓 I'm a physical science graduate from 
 
 - 🏫 I studied at **Bandaranayaka College Gampaha.**
 
