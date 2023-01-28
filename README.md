@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic developer looking for opportunities to enhance my skills</h3>
 - 🎓 I'm a physical science graduate from **University of Colombo.**
 
-- 🏫 I studied at **Bandaranayaka College Gampaha .**
+- 🏫 I studied at **Bandaranayaka College Gampaha.**
 
 - 🌱 I’m currently learning **front-end and back-end technologies.**
 
