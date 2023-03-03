@@ -9,7 +9,7 @@
 
 - 📚 Always looking forward to **explore and learn more.**
 
-- 📫 Reach me via **pasanm16@gmail.com**
+- 📫 Reach me via **pasanm16@gmail.com/ +9471042299**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
