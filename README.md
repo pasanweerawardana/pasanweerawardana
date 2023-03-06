@@ -5,7 +5,7 @@
 
 - 🏫 I studied at **Bandaranayaka College Gampaha.**
 
-- 🌱 I’m currently learning **JAVASE , JavaEE , JS , CSS3 , HTML**
+- 🌱 I’m currently learning **JAVASE ,Spring Boot , JavaEE , JS , CSS3 , HTML**
 
 - 📚 Always looking forward to **explore and learn more.**
 
